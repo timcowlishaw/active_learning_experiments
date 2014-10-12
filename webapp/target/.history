@@ -1,0 +1,7 @@
+container:start
+compile
+exit
+container:start
+\q
+exit
+quit
